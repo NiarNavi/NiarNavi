@@ -75,4 +75,8 @@ NiarNavi adalah repositori GitHub yang didedikasikan untuk semua penggemar Minec
 			</tr>
 		</tbody>
 	</table>
+ <a href="https://discord.com/users/447411230098063362" target="_blank">
+	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/447411230098063362">
+</a>
+
 </center>
