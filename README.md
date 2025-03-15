@@ -15,8 +15,8 @@ NiarNavi adalah repositori GitHub yang didedikasikan untuk semua penggemar Minec
 	<table align="center">
 		<thead>
 			<tr>
-				<th align="center"><h2>📚 my languages 📚</h2></th>
-				<th align="center"><h2>📖 my languages that I'm learning 📖</h2></th>
+				<th align="center"><h2>📚 Languages 📚</h2></th>
+				<th align="center"><h2>📖 Languages that I'm learning 📖</h2></th>
 			</tr>
 		</thead>
 		<tbody>
@@ -51,8 +51,8 @@ NiarNavi adalah repositori GitHub yang didedikasikan untuk semua penggemar Minec
 	<table align="center">
 <thead>
 		<tr>
-			<th align="center"><h2>⚒️ my tools ⚒️</h2></th>
-			<th align="center"><h2>📖⚒️ tools I'm studying⚒️📖 </h2></th>
+			<th align="center"><h2>⚒️ My Tools ⚒️</h2></th>
+			<th align="center"><h2>📖⚒️ Tools I'm studying⚒️📖 </h2></th>
 		</tr>
 </thead>
 <tbody>
